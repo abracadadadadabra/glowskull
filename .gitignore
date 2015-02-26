@@ -41,8 +41,3 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
-
-# Stuff we don't need to put up on github
-Content/StarterContent/
-Saved/Backup/
-Saved/Autosaves/
