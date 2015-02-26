@@ -3207,4 +3207,473 @@ LogInit: Rocket: 1
 [2015.02.26-20.07.37:461][242]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.031
 [2015.02.26-20.07.57:961][366]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
 [2015.02.26-20.07.58:047][367]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002C6CE3E0
-[2015.02.26-20.08.06:687][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MovementSpeed
+[2015.02.26-20.08.06:687][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MovementSpeedCurve" FILE="D:/github/unreal/glowskull/Content/Blueprints/MovementSpeedCurve.uasset" SILENT=true
+[2015.02.26-20.08.06:693][997]LogSavePackage: Save=2.775856ms
+[2015.02.26-20.08.06:693][997]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/MovementSpeedCurve11DE8E2649A7EC61E108C4A68C59B6BB.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/MovementSpeedCurve.uasset'
+[2015.02.26-20.08.27:129][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn_Template" FILE="D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset" SILENT=true
+[2015.02.26-20.08.27:211][ 54]LogSavePackage: Save=71.670929ms
+[2015.02.26-20.08.27:211][ 54]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/Pawn_Template986EBCA749D0F971CE180DA6CE8D296A.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset'
+[2015.02.26-20.10.26:409][376]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.11.43:508][ 35]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DefaultMap' took 0.032
+[2015.02.26-20.11.43:587][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Pawn_Template] ([1] browsable assets)...
+[2015.02.26-20.11.43:587][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawn_Template]
+[2015.02.26-20.11.43:591][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn_Template" FILE="D:/github/unreal/glowskull/Saved/Autosaves/Game/Blueprints/Pawn_Template_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.02.26-20.11.43:746][ 35]LogSavePackage: Save=152.633835ms
+[2015.02.26-20.11.43:746][ 35]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/Pawn_Template_Auto1132A5CA04E830E3726538B9D9AA4FF3C.tmp' to 'D:/github/unreal/glowskull/Saved/Autosaves/Game/Blueprints/Pawn_Template_Auto1.uasset'
+[2015.02.26-20.11.43:831][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CameraZoomCurve] ([1] browsable assets)...
+[2015.02.26-20.11.43:831][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CameraZoomCurve]
+[2015.02.26-20.11.43:841][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraZoomCurve" FILE="D:/github/unreal/glowskull/Saved/Autosaves/Game/Blueprints/CameraZoomCurve_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2015.02.26-20.11.43:923][ 35]LogSavePackage: Save=81.116753ms
+[2015.02.26-20.11.43:923][ 35]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/CameraZoomCurve_Auto16783545F4377E9131756AAB26CDBB237.tmp' to 'D:/github/unreal/glowskull/Saved/Autosaves/Game/Blueprints/CameraZoomCurve_Auto1.uasset'
+[2015.02.26-20.11.43:925][ 35]LogFileHelpers: Auto-saving content packages took 0.418
+[2015.02.26-20.11.58:873][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraZoomCurve" FILE="D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset" SILENT=true
+[2015.02.26-20.11.58:877][945]LogSavePackage: Save=2.454643ms
+[2015.02.26-20.11.58:877][945]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/CameraZoomCurveBD6B59974240CDC420E429B6C33EC992.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset'
+[2015.02.26-20.12.18:892][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn_Template" FILE="D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset" SILENT=true
+[2015.02.26-20.12.18:980][255]LogSavePackage: Save=73.696182ms
+[2015.02.26-20.12.18:980][255]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/Pawn_TemplateC728861349739A3E3C4A0D940ABFCC49.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset'
+[2015.02.26-20.12.43:605][404]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.12.59:476][ 93]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.12.59:476][ 93]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.13.14:781][803]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.13.39:541][911]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.13.39:541][911]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.13.39:541][911]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.13.39:541][911]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_81302.EdGraphPin_3109"''
+[2015.02.26-20.13.39:542][911]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_81302.EdGraphPin_3110"''
+[2015.02.26-20.13.50:681][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn_Template" FILE="D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset" SILENT=true
+[2015.02.26-20.13.50:763][392]LogSavePackage: Save=74.626915ms
+[2015.02.26-20.13.50:763][392]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/Pawn_TemplateCBCBFABA472CA16E7AE769990B6CEBB9.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset'
+[2015.02.26-20.13.54:406][551]BlueprintLog: New page: Compile Pawn_Template
+[2015.02.26-20.13.54:604][551]BlueprintEditorCompileResults: Info [2178.33] Compile of Pawn_Template successful! [in 156 ms]
+[2015.02.26-20.13.55:105][568]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.13.55:110][568]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.13.55:272][568]LogPlayLevel: PIE:  Blueprint regeneration took 167 ms (1 blueprints)
+[2015.02.26-20.13.55:272][568]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:13:55 AM)
+[2015.02.26-20.13.55:274][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001698s)
+[2015.02.26-20.13.55:275][568]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2015.02.26-20.13.55:275][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002654s)
+[2015.02.26-20.13.55:309][568]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.13.55:311][568]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.13.55:311][568]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.13.55
+[2015.02.26-20.13.55:312][568]LogWorld: Bringing up level for play took: 0.000753
+[2015.02.26-20.13.55:313][568]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.124
+[2015.02.26-20.13.59:590][773]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.13.59:681][774]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002C5F9300
+[2015.02.26-20.14.25:297][884]BlueprintLog: New page: Compile Pawn_Template
+[2015.02.26-20.14.25:493][884]BlueprintEditorCompileResults: Info [2209.22] Compile of Pawn_Template successful! [in 156 ms]
+[2015.02.26-20.14.25:858][896]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.14.25:863][896]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.14.26:025][896]LogPlayLevel: PIE:  Blueprint regeneration took 166 ms (1 blueprints)
+[2015.02.26-20.14.26:025][896]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:14:26 AM)
+[2015.02.26-20.14.26:027][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002035s)
+[2015.02.26-20.14.26:028][896]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2015.02.26-20.14.26:028][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002956s)
+[2015.02.26-20.14.26:058][896]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.14.26:060][896]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.14.26:061][896]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.14.26
+[2015.02.26-20.14.26:061][896]LogWorld: Bringing up level for play took: 0.000733
+[2015.02.26-20.14.26:062][896]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.625
+[2015.02.26-20.14.29:926][ 80]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.14.30:017][ 81]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000CF33F60
+[2015.02.26-20.14.45:562][741]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.14.45:607][741]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.14.45:767][741]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.14.45:931][741]LogPlayLevel: PIE:  Blueprint regeneration took 369 ms (2 blueprints)
+[2015.02.26-20.14.45:931][741]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:14:45 AM)
+[2015.02.26-20.14.45:933][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001704s)
+[2015.02.26-20.14.45:934][741]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2015.02.26-20.14.45:934][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002694s)
+[2015.02.26-20.14.45:960][741]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.14.45:963][741]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.14.45:963][741]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.14.45
+[2015.02.26-20.14.45:963][741]LogWorld: Bringing up level for play took: 0.000681
+[2015.02.26-20.14.45:965][741]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.527
+[2015.02.26-20.14.49:542][909]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.14.49:632][910]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002C6BA200
+[2015.02.26-20.15.16:585][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraZoomCurve" FILE="D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset" SILENT=true
+[2015.02.26-20.15.16:601][576]LogSavePackage: Save=12.685256ms
+[2015.02.26-20.15.16:601][576]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/CameraZoomCurve1D2CC99D4D5A233774D609B619B9FEDB.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset'
+[2015.02.26-20.15.24:660][ 83]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.15.24:681][ 83]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.15.24:815][ 83]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.15.24:977][ 83]LogPlayLevel: PIE:  Blueprint regeneration took 317 ms (2 blueprints)
+[2015.02.26-20.15.24:977][ 83]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:15:24 AM)
+[2015.02.26-20.15.24:979][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001784s)
+[2015.02.26-20.15.24:980][ 83]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2015.02.26-20.15.24:980][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002919s)
+[2015.02.26-20.15.25:011][ 83]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.15.25:013][ 83]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.15.25:013][ 83]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.15.25
+[2015.02.26-20.15.25:014][ 83]LogWorld: Bringing up level for play took: 0.000717
+[2015.02.26-20.15.25:015][ 83]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.423
+[2015.02.26-20.15.29:911][451]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.15.29:993][452]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002C6B8F40
+[2015.02.26-20.16.58:553][158]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:583][672]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.10:584][672]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_81302.EdGraphPin_19904"''
+[2015.02.26-20.17.10:584][672]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_50030.EdGraphPin_19877"''
+[2015.02.26-20.17.10:584][672]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_81302.EdGraphPin_19901"''
+[2015.02.26-20.17.10:585][672]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_81302.EdGraphPin_19902"''
+[2015.02.26-20.17.10:585][672]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'"K2Node_CallFunction_81302.EdGraphPin_19903"''
+[2015.02.26-20.17.31:966][611]LogUObjectGlobals:Warning: Failed to find object 'Object None.'
+[2015.02.26-20.17.46:795][266]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.17.46:817][266]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.17.46:962][266]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.17.47:142][266]LogPlayLevel: PIE:  Blueprint regeneration took 347 ms (2 blueprints)
+[2015.02.26-20.17.47:143][266]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:17:47 AM)
+[2015.02.26-20.17.47:145][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001696s)
+[2015.02.26-20.17.47:145][266]LogPlayLevel: PIE: World Init took: (0.000818s)
+[2015.02.26-20.17.47:146][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002679s)
+[2015.02.26-20.17.47:177][266]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.17.47:179][266]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.17.47:180][266]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.17.47
+[2015.02.26-20.17.47:180][266]LogWorld: Bringing up level for play took: 0.000719
+[2015.02.26-20.17.47:181][266]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.258
+[2015.02.26-20.17.51:957][502]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.17.52:050][503]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000034E9C400
+[2015.02.26-20.17.59:962][847]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.17.59:985][847]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.18.00:127][847]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.18.00:298][847]LogPlayLevel: PIE:  Blueprint regeneration took 335 ms (2 blueprints)
+[2015.02.26-20.18.00:298][847]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:18:00 AM)
+[2015.02.26-20.18.00:300][847]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001843s)
+[2015.02.26-20.18.00:301][847]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2015.02.26-20.18.00:301][847]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002790s)
+[2015.02.26-20.18.00:331][847]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.18.00:334][847]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.18.00:334][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.18.00
+[2015.02.26-20.18.00:335][847]LogWorld: Bringing up level for play took: 0.000780
+[2015.02.26-20.18.00:336][847]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.896
+[2015.02.26-20.18.07:626][190]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.18.07:720][191]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000032CD7920
+[2015.02.26-20.19.24:784][738]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.02.26-20.19.24:784][738]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:19:24 AM)
+[2015.02.26-20.19.24:786][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001555s)
+[2015.02.26-20.19.24:787][738]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2015.02.26-20.19.24:787][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002477s)
+[2015.02.26-20.19.24:818][738]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.19.24:820][738]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.19.24:821][738]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.19.24
+[2015.02.26-20.19.24:821][738]LogWorld: Bringing up level for play took: 0.000753
+[2015.02.26-20.19.24:822][738]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.619
+[2015.02.26-20.19.29:238][951]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.19.29:331][952]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000027812A20
+[2015.02.26-20.19.34:494][159]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.19.34:516][159]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.19.34:663][159]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.19.34:836][159]LogPlayLevel: PIE:  Blueprint regeneration took 341 ms (2 blueprints)
+[2015.02.26-20.19.34:836][159]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:19:34 AM)
+[2015.02.26-20.19.34:838][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001692s)
+[2015.02.26-20.19.34:839][159]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2015.02.26-20.19.34:839][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002644s)
+[2015.02.26-20.19.34:869][159]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.19.34:871][159]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.19.34:872][159]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.19.34
+[2015.02.26-20.19.34:872][159]LogWorld: Bringing up level for play took: 0.000732
+[2015.02.26-20.19.34:873][159]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.567
+[2015.02.26-20.19.39:577][380]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.19.39:672][381]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x00000000277C0EA0
+[2015.02.26-20.19.49:373][889]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.02.26-20.19.49:373][889]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:19:49 AM)
+[2015.02.26-20.19.49:375][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001571s)
+[2015.02.26-20.19.49:376][889]LogPlayLevel: PIE: World Init took: (0.000821s)
+[2015.02.26-20.19.49:376][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002545s)
+[2015.02.26-20.19.49:408][889]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.19.49:410][889]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.19.49:411][889]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.19.49
+[2015.02.26-20.19.49:411][889]LogWorld: Bringing up level for play took: 0.000747
+[2015.02.26-20.19.49:412][889]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.029
+[2015.02.26-20.19.54:434][258]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.19.54:522][259]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000027805EE0
+[2015.02.26-20.19.55:109][294]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.02.26-20.19.55:109][294]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:19:55 AM)
+[2015.02.26-20.19.55:111][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001747s)
+[2015.02.26-20.19.55:112][294]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2015.02.26-20.19.55:112][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002648s)
+[2015.02.26-20.19.55:144][294]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.19.55:146][294]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.19.55:146][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.19.55
+[2015.02.26-20.19.55:147][294]LogWorld: Bringing up level for play took: 0.000734
+[2015.02.26-20.19.55:148][294]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.294
+[2015.02.26-20.19.57:774][482]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.19.57:861][483]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002EF57600
+[2015.02.26-20.19.58:388][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn_Template" FILE="D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset" SILENT=true
+[2015.02.26-20.19.58:477][507]LogSavePackage: Save=82.920036ms
+[2015.02.26-20.19.58:477][507]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/Pawn_Template98A62D8945F7E10559AF09965782A8DA.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset'
+[2015.02.26-20.20.06:942][874]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.20.06:965][874]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.20.07:111][874]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.20.07:288][874]LogPlayLevel: PIE:  Blueprint regeneration took 345 ms (2 blueprints)
+[2015.02.26-20.20.07:288][874]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:20:07 AM)
+[2015.02.26-20.20.07:290][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002135s)
+[2015.02.26-20.20.07:291][874]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2015.02.26-20.20.07:291][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003071s)
+[2015.02.26-20.20.07:320][874]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.20.07:322][874]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.20.07:323][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.20.07
+[2015.02.26-20.20.07:323][874]LogWorld: Bringing up level for play took: 0.000686
+[2015.02.26-20.20.07:324][874]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.117
+[2015.02.26-20.20.17:826][369]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.20.17:921][370]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000035023560
+[2015.02.26-20.20.25:764][681]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.20.25:787][681]LogPlayLevel: [PIE] Compiling Pawn_Template before PIE...
+[2015.02.26-20.20.25:932][681]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.20.26:109][681]LogPlayLevel: PIE:  Blueprint regeneration took 345 ms (2 blueprints)
+[2015.02.26-20.20.26:109][681]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:20:26 AM)
+[2015.02.26-20.20.26:112][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002020s)
+[2015.02.26-20.20.26:113][681]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2015.02.26-20.20.26:113][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002971s)
+[2015.02.26-20.20.26:142][681]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.20.26:144][681]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.20.26:145][681]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.20.26
+[2015.02.26-20.20.26:145][681]LogWorld: Bringing up level for play took: 0.000814
+[2015.02.26-20.20.26:146][681]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.705
+[2015.02.26-20.20.31:051][915]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.20.31:146][916]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000032CD42C0
+[2015.02.26-20.20.51:916][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pawn_Template" FILE="D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset" SILENT=true
+[2015.02.26-20.20.52:003][220]LogSavePackage: Save=83.005249ms
+[2015.02.26-20.20.52:003][220]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/Pawn_Template39B028BE40DFB70550100DA880F1DCFF.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/Pawn_Template.uasset'
+[2015.02.26-20.20.52:010][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraZoomCurve" FILE="D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset" SILENT=true
+[2015.02.26-20.20.52:015][220]LogSavePackage: Save=2.314064ms
+[2015.02.26-20.20.52:015][220]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/CameraZoomCurve568255F947840DA1384E9BBA209BF56A.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset'
+[2015.02.26-20.20.54:572][408]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.02.26-20.20.54:572][408]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:20:54 AM)
+[2015.02.26-20.20.54:574][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001554s)
+[2015.02.26-20.20.54:575][408]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2015.02.26-20.20.54:575][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002551s)
+[2015.02.26-20.20.54:617][408]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.20.54:619][408]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.20.54:619][408]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.20.54
+[2015.02.26-20.20.54:620][408]LogWorld: Bringing up level for play took: 0.000728
+[2015.02.26-20.20.54:621][408]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap -0.821
+[2015.02.26-20.21.00:982][977]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.21.01:068][978]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000035FD1EE0
+[2015.02.26-20.21.12:933][721]LogContentBrowser:Verbose: The content browser source was changed by the sources view to 'None'
+[2015.02.26-20.21.12:933][721]LogContentBrowser:Verbose: The content browser source was changed by the sources view to '/Game/Blueprints'
+[2015.02.26-20.21.31:048][826]BlueprintLog: New page: Compile Pawn_Template
+[2015.02.26-20.21.31:236][826]BlueprintEditorCompileResults: Info [2634.96] Compile of Pawn_Template successful! [in 144 ms]
+[2015.02.26-20.21.31:706][842]BlueprintLog: New page: Pre-PIE auto-recompile
+[2015.02.26-20.21.31:711][842]LogPlayLevel: [PIE] Compiling HUD_Template before PIE...
+[2015.02.26-20.21.31:882][842]LogPlayLevel: PIE:  Blueprint regeneration took 175 ms (1 blueprints)
+[2015.02.26-20.21.31:882][842]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:21:31 AM)
+[2015.02.26-20.21.31:885][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001973s)
+[2015.02.26-20.21.31:886][842]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2015.02.26-20.21.31:886][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.003043s)
+[2015.02.26-20.21.31:916][842]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.21.31:918][842]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.21.31:918][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.21.31
+[2015.02.26-20.21.31:919][842]LogWorld: Bringing up level for play took: 0.000701
+[2015.02.26-20.21.31:920][842]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.477
+[2015.02.26-20.21.47:689][583]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.21.47:784][584]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000026707B00
+[2015.02.26-20.22.11:452][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraZoomCurve" FILE="D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset" SILENT=true
+[2015.02.26-20.22.11:457][758]LogSavePackage: Save=2.480412ms
+[2015.02.26-20.22.11:457][758]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/CameraZoomCurve809404F94F09DC50FFDABC9E50116490.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset'
+[2015.02.26-20.22.12:323][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CameraZoomCurve" FILE="D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset" SILENT=true
+[2015.02.26-20.22.12:338][813]LogSavePackage: Save=2.591395ms
+[2015.02.26-20.22.12:338][813]LogSavePackage: Moving 'D:/github/unreal/glowskull/Saved/CameraZoomCurveDD463EA74AB5E3CEA9D8CFBAF009D0BA.tmp' to 'D:/github/unreal/glowskull/Content/Blueprints/CameraZoomCurve.uasset'
+[2015.02.26-20.22.13:782][888]LogPlayLevel: PIE:  No blueprints needed recompiling
+[2015.02.26-20.22.13:782][888]PIE: New page: PIE session: DefaultMap (Feb 26, 2015, 8:22:13 AM)
+[2015.02.26-20.22.13:784][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001831s)
+[2015.02.26-20.22.13:785][888]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2015.02.26-20.22.13:785][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DefaultMap.DefaultMap to /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap (0.002876s)
+[2015.02.26-20.22.13:818][888]LogWorld: Game class is 'GM_Template_C'
+[2015.02.26-20.22.13:821][888]LogAIModule: Creating AISystem for world DefaultMap
+[2015.02.26-20.22.13:821][888]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2015.02.26-14.22.13
+[2015.02.26-20.22.13:822][888]LogWorld: Bringing up level for play took: 0.000748
+[2015.02.26-20.22.13:823][888]PIE: Info Play in editor start time for /Game/Maps/UEDPIE_0_DefaultMap 0.379
+[2015.02.26-20.22.27:048][516]LogPropertyNode:Warning: UI Min (0.001) >= UI Max () for Ranged Numeric
+[2015.02.26-20.22.27:145][517]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000002EF12D40
+[2015.02.26-20.23.24:240][ 58]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/DefaultMap' took 0.035
+[2015.02.26-20.23.56:613][222]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Shere)
+[2015.02.26-20.23.57:044][257]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000016B4C0E0
+[2015.02.26-20.23.58:964][383]Cmd: QUIT_EDITOR
+[2015.02.26-20.23.59:292][383]LogExit: Preparing to exit.
+[2015.02.26-20.23.59:589][383]LogExit: Editor shut down
+[2015.02.26-20.23.59:589][383]LogExit: Transaction tracking system shut down
+[2015.02.26-20.23.59:591][383]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000B7B6020
+[2015.02.26-20.23.59:593][383]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x000000000D75AF20
+[2015.02.26-20.23.59:593][383]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023BF0540
+[2015.02.26-20.23.59:594][383]LogParticles: Destroying 0 GPU particle simulations for FXSystem 0x0000000023BF0180
+[2015.02.26-20.23.59:654][383]LogExit: Object subsystem successfully closed.
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module CurveAssetEditor (174)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (173)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (172)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module CrashTracker (171)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module SuperSearch (170)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module SceneOutliner (169)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module EditorWidgets (168)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module CollectionManager (167)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module StatsViewer (166)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module FoliageEdit (165)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module LandscapeEditor (164)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module MeshPaint (163)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module ActorPickerMode (162)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module GeometryMode (161)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module TextureAlignMode (160)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module BspMode (159)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module PlacementMode (158)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module AutomationWorker (157)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module CharacterAI (156)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (155)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module IntroTutorials (154)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (153)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module HardwareTargeting (152)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (151)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module UndoHistory (150)
+[2015.02.26-20.23.59:700][383]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (149)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module UserFeedback (148)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module XmlParser (147)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module Blutility (146)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (145)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (144)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (143)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (142)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (141)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (140)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module InputBindingEditor (139)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (138)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module SettingsEditor (137)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module ProjectLauncher (136)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module SessionFrontend (135)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module ProfilerClient (134)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (133)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module DeviceManager (132)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module AutomationController (131)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module AutomationWindow (130)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module Layers (129)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (128)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module DetailCustomizations (127)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module PackagesDialog (126)
+[2015.02.26-20.23.59:701][383]LogModuleManager: Shutting down and abandoning module AssetRegistry (125)
+[2015.02.26-20.23.59:756][383]LogModuleManager: Shutting down and abandoning module Persona (124)
+[2015.02.26-20.23.59:756][383]LogModuleManager: Shutting down and abandoning module Kismet (123)
+[2015.02.26-20.23.59:756][383]LogModuleManager: Shutting down and abandoning module GraphEditor (122)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module ClassViewer (121)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module Toolbox (120)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module ModuleUI (119)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module MovieSceneTools (118)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module OutputLog (117)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module GammaUI (116)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module Documentation (115)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (114)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (113)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module HTTP (112)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module AnalyticsET (111)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module Analytics (110)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module AITestSuite (109)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module AIModule (108)
+[2015.02.26-20.23.59:757][383]LogModuleManager: Shutting down and abandoning module ProfilerService (107)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module TaskGraph (106)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module GameplayDebugger (105)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module SlateRemote (104)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module ScriptEditorPlugin (103)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (102)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module CableComponent (101)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module MessagingDebugger (100)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (99)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (98)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module PluginsEditor (97)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module EpicSurvey (96)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module DesktopPlatform (95)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (94)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module UObjectPlugin (93)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (92)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module SourceControl (91)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (90)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module BlankPlugin (89)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module SlateReflector (88)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (87)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module HotReload (86)
+[2015.02.26-20.23.59:883][383]LogModuleManager: Shutting down and abandoning module MainFrame (85)
+[2015.02.26-20.23.59:884][383]LogModuleManager: Shutting down and abandoning module LevelEditor (84)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module ViewportSnapping (83)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module SmartSnapping (82)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (81)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module PaperJsonImporter (80)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module ContentBrowser (79)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module Paper2DEditor (78)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module ScriptPlugin (77)
+[2015.02.26-20.23.59:885][383]LogModuleManager: Shutting down and abandoning module UdpMessaging (76)
+[2015.02.26-20.23.59:985][383]LogModuleManager: Shutting down and abandoning module Paper2D (75)
+[2015.02.26-20.23.59:985][383]LogModuleManager: Shutting down and abandoning module UE4Game (74)
+[2015.02.26-20.23.59:985][383]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (73)
+[2015.02.26-20.23.59:987][383]LogModuleManager: Shutting down and abandoning module Media (72)
+[2015.02.26-20.23.59:987][383]LogModuleManager: Shutting down and abandoning module WmfMedia (71)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module PropertyEditor (69)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (68)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module FunctionalTesting (67)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (66)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (65)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module MessageLog (64)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module Sequencer (63)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module AssetTools (62)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module UMGEditor (61)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module UMG (60)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module Slate (59)
+[2015.02.26-20.23.59:988][383]LogModuleManager: Shutting down and abandoning module EditorStyle (58)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module SessionServices (57)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (56)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (55)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module XAudio2 (54)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module Networking (52)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module Core (51)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module KismetCompiler (50)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module PhysXFormats (49)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module MeshUtilities (48)
+[2015.02.26-20.23.59:992][383]LogModuleManager: Shutting down and abandoning module DerivedDataCache (47)
+[2015.02.26-20.24.00:005][383]LogDerivedDataCache: Shutdown
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (46)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (45)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (44)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (43)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (42)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (41)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (40)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (39)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (38)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (37)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (36)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (35)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (34)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Messaging (33)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (32)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (31)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (30)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (29)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (28)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (27)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (26)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (25)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (24)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (23)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (22)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module TargetPlatform (21)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module InputCore (20)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Settings (19)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module ImageWrapper (18)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module OculusRift (15)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (14)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module TextureCompressor (13)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module ShaderCore (12)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module Landscape (11)
+[2015.02.26-20.24.00:005][383]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (10)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module OpenGLDrv (9)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module D3D11RHI (8)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2015.02.26-20.24.00:008][383]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2015.02.26-20.24.00:009][383]LogExit: Exiting.
+[2015.02.26-20.24.00:019][383]Log file closed, 02/26/15 14:24:00
